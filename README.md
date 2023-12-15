@@ -1,0 +1,5 @@
+This program is a social media app I made completely from scratch, designed to be like a baseline Instagram. The program uses a graph to store users and their friends, and each user has their own set of public and private posts. You can create your own network or use the one found in social_network.txt and posts.txt. There are tons of things you can do inside network such as searching for suggested friends or finding all friends that are 3 connections away.
+
+The SocialNetworkQT folder, which is the newest version of the program, has a clickable GUI in QT creator. Open that folder as a project in Qt creator and once the program is running, try logging in as Aled Montes to see the user interface. This program shows the social network from a user perspective.
+
+The SocialNetworkTerminal folder is an older version of the program that allows all of the control to be done using the terminal. Make sure to compile using c++11 or use the makefile if you try this program. This program shows the social network from a developer's perspective.
